@@ -1,0 +1,4 @@
+#example of undesired file: "foo.js~". What are these for, I don't know.
+#figured it out, they're actually ubuntu backups, don't need them.
+.*~
+images/**/*
